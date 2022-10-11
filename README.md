@@ -10,6 +10,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=green)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/-scikitlearn-05122A?style=flat&logo=scikitlearn)\
@@ -24,11 +25,19 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
-<!--
+
 
 ### Connect with Me
 
-**jdenisova/jdenisova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+
+  <!-- личный сайт -->
+
+  <a href="mailto:j.v.denisowa@gmail.com"><img src="https://img.shields.io/badge/-j.v.denisowa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://t.me/justfromsiberia"><img src="https://img.shields.io/badge/-@justfromsiberia-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
+</p>
+
+<!-- **jdenisova/jdenisova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
