@@ -1,12 +1,14 @@
 ### Hi there! I'm Julia 👋
+<hr>
 
-### About Me
+### :woman_technologist: About Me
 
-:bulb: &nbsp;&nbsp; I like to explore new technologies and develop useful software solutions.\
-:mortar_board: &nbsp; I got Bachelor's degree in Mathematics and Computer Science.\
-:camera: &nbsp; In my free time, I pursue Street Photography and 3D Graphic as hobbies.
+:cold_face: &nbsp; I am a Python Developer from Siberia. I love snow and write frost-resistant code.\
+:robot: &nbsp; I enjoy developing useful programs and tools.\
+:woman_student: &nbsp; In my free time I study ML, DL and CG.\
+:lotus_position_woman: &nbsp; In my real free time I take pictures, travel and play board games.
 
-### Skills
+### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=green)&nbsp;
@@ -27,14 +29,14 @@
 
 
 
-### Connect with Me
+### :speech_balloon: Connect with Me
 
 <p align="center">
 
   <!-- личный сайт -->
 
-  <a href="mailto:j.v.denisowa@gmail.com"><img src="https://img.shields.io/badge/-j.v.denisowa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://t.me/justfromsiberia"><img src="https://img.shields.io/badge/-@justfromsiberia-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
+  <a href="mailto:j.v.denisowa@gmail.com"><img src="https://img.shields.io/badge/-j.v.denisowa@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://t.me/justfromsiberia"><img src="https://img.shields.io/badge/-@justfromsiberia-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 </p>
 
 <!-- **jdenisova/jdenisova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
