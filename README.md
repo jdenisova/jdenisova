@@ -6,7 +6,7 @@
 :cold_face: &nbsp; I am a Python Developer from Siberia. I love snow and write frost-resistant code.\
 :robot: &nbsp; I enjoy developing useful programs and tools.\
 :woman_student: &nbsp; In my free time I study ML, DL and CG.\
-:lotus_position_woman: &nbsp; In my real free time I take pictures, travel and play board games.
+:lotus_position_woman: &nbsp; In my real free time I take photos, travel and play board games.
 
 ### 🛠 Tech Stack
 
