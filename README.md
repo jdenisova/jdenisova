@@ -31,6 +31,6 @@
 
 ### :speech_balloon: Connect with Me
 
-<a href="https://jdenisova.github.io"><img src="https://img.shields.io/badge/-jdenisova.github.io-F57400?style=for-the-badge&logoColor=white"/></a>
+<!-- <a href="https://jdenisova.github.io"><img src="https://img.shields.io/badge/-jdenisova.github.io-F57400?style=for-the-badge&logoColor=white"/></a> -->
 <a href="mailto:j.v.denisowa@gmail.com"><img src="https://img.shields.io/badge/-j.v.denisowa@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/justfromsiberia"><img src="https://img.shields.io/badge/-@justfromsiberia-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
